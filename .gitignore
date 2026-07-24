@@ -235,16 +235,15 @@ $RECYCLE.BIN/
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
-_ignore/
-oldstuff/
-old_network_hook_system/
-element_clones/
-testing/
-.claude
-requirements_frozen.txt
-ignore/
-.oclaude/
-CLAUDE.md
-AGENTS.md
-.mcp.json
-Checklist.md
+
+.*/
+.*.json
+*.md
+!README.md
+!ROADMAP.md
+!HALL_OF_FAME.md
+!CHANGELOG.md
+!CODE_OF_CONDUCT.md
+!COMPARISON.md
+!CONTRIBUTING.md
+!SECURITY.md
