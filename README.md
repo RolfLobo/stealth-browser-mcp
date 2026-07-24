@@ -43,7 +43,7 @@ Navigate Cloudflare challenges, anti-bot checks, and login walls with real Chrom
 **Special discounts for stealth-browser-mcp users**
 
 - `STEALTHMCP35` — 35% off Mobile and Residential Proxies
-- `STEALTHMCP40` or `STEALTHMCP 40` — 40% off ISP Static Proxies. If one version is not accepted, try the other.
+- `STEALTHMCP40` — 40% off ISP Static Proxies
 
 [Get started with NodeMaven](https://go.nodemaven.com/stealthbrowsermcpGH)
 
