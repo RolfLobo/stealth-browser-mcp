@@ -19,7 +19,7 @@ Navigate Cloudflare challenges, anti-bot checks, and login walls with real Chrom
 
 ---
 
-## Sponsored by NodeMaven
+## Sponsors
 
 <table>
 <tr>
@@ -49,15 +49,6 @@ Navigate Cloudflare challenges, anti-bot checks, and login walls with real Chrom
 
 </td>
 </tr>
-</table>
-
-> Sponsored placement. NodeMaven is a paid sponsor of this project.
-
----
-
-## Sponsored by RapidProxy
-
-<table>
 <tr>
 <td align="center" width="200">
 
@@ -88,14 +79,13 @@ Use promo code `RAPID10` for **10% off**.
 </tr>
 </table>
 
-> Sponsored placement. RapidProxy is a paid sponsor of this project.
+> Sponsored placement. NodeMaven and RapidProxy are paid sponsors of this project.
 
 ---
 
 ## Table of Contents
 
-- [Sponsored by NodeMaven](#sponsored-by-nodemaven)
-- [Sponsored by RapidProxy](#sponsored-by-rapidproxy)
+- [Sponsors](#sponsors)
 - [Demo](#demo)
 - [Features](#features)
 - [Quickstart](#quickstart)
