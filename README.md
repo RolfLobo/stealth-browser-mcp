@@ -25,28 +25,27 @@ Navigate Cloudflare challenges, anti-bot checks, and login walls with real Chrom
 <tr>
 <td align="center" width="200">
 
-<a href="https://go.nodemaven.com/stealthbrowsermcpGH"><img src="media/nodemaven-sponsor.png" alt="NodeMaven" width="180"></a>
+<a href="https://go.nodemaven.com/stealthbrowsermcpreadaugust"><img src="media/nodemaven-sponsor.png" alt="NodeMaven" width="180"></a>
 
 </td>
 <td>
 
-[NodeMaven](https://go.nodemaven.com/stealthbrowsermcpGH) is a proxy provider offering high-quality IPs for browser automation, web scraping, SEO research, and social media management.
+[NodeMaven](https://go.nodemaven.com/stealthbrowsermcpreadaugust) — The most efficient proxy provider for Web Scraping and Automation with the Highest Quality IP on the market.
 
 **Why NodeMaven?**
 
+- ZIP targeting
 - 99.9% uptime
-- Sticky sessions for up to 7 days
-- IP filtering with proxy fraud scores below 97%
+- IP filtering: all proxies have fraud score <97%
 - No KYC required
-- Traffic cashback with up to 10% returned based on GB usage
+- Unique free tools: Proxy Bandwidth Checker, Meta Tag Checker, IP Lookup and others!
 
-**Special discounts for stealth-browser-mcp users**
+**Special codes for Stealth-browser-mcp users**
 
-- `STEALTHMCP35` — 35% off Mobile and Residential Proxies
-- `STEALTHMCP40` — 40% off ISP Static Proxies
+- `STEALTHMCP35` — 35% off to Mobile and Residential Proxies
+- `STEALTHMCP40` — 40% off to ISP (Static) Proxies
 
-[Get started with NodeMaven](https://go.nodemaven.com/stealthbrowsermcpGH)
-
+[Get started with NodeMaven](https://go.nodemaven.com/stealthbrowsermcpreadaugust)
 </td>
 </tr>
 <tr>
