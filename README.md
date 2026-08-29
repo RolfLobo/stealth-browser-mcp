@@ -23,12 +23,19 @@ Navigate Cloudflare challenges, anti-bot checks, and login walls with real Chrom
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="50%">
 
 <a href="https://go.nodemaven.com/stealthbrowsermcpreadaugust"><img src="media/nodemaven-sponsor.png" alt="NodeMaven" width="180"></a>
 
 </td>
-<td>
+<td align="center" width="50%">
+
+<a href="https://www.rapidproxy.io/?ref=mcp"><img src="media/rapidproxy-sponsor.png" alt="RapidProxy" width="180"></a>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 [NodeMaven](https://go.nodemaven.com/stealthbrowsermcpreadaugust) — The most efficient proxy provider for Web Scraping and Automation with the Highest Quality IP on the market.
 
@@ -46,15 +53,9 @@ Navigate Cloudflare challenges, anti-bot checks, and login walls with real Chrom
 - `STEALTHMCP40` — 40% off to ISP (Static) Proxies
 
 [Get started with NodeMaven](https://go.nodemaven.com/stealthbrowsermcpreadaugust)
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-
-<a href="https://www.rapidproxy.io/?ref=mcp"><img src="media/rapidproxy-sponsor.png" alt="RapidProxy" width="180"></a>
 
 </td>
-<td>
+<td valign="top">
 
 [RapidProxy](https://www.rapidproxy.io/?ref=mcp) powers scraping and automation with 90M+ residential IPs across 200+ countries, supporting rotation, geo-targeting, and high concurrency to improve success rates and reduce bans.
 
