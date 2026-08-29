@@ -25,12 +25,12 @@ Navigate Cloudflare challenges, anti-bot checks, and login walls with real Chrom
 <tr>
 <td align="center" width="50%">
 
-<a href="https://go.nodemaven.com/stealthbrowsermcpreadaugust"><img src="media/nodemaven-sponsor.png" alt="NodeMaven" width="180"></a>
+<a href="https://go.nodemaven.com/stealthbrowsermcpreadaugust"><img src="media/nodemaven-sponsor.png" alt="NodeMaven" width="100%"></a>
 
 </td>
 <td align="center" width="50%">
 
-<a href="https://www.rapidproxy.io/?ref=mcp"><img src="media/rapidproxy-sponsor.png" alt="RapidProxy" width="180"></a>
+<a href="https://www.rapidproxy.io/?ref=mcp"><img src="media/rapidproxy-sponsor.png" alt="RapidProxy" width="100%"></a>
 
 </td>
 </tr>
